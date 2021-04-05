@@ -1,0 +1,37 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Foe",
+      "age": "10",
+      "eyeColor": "blue",
+      "reminder": false,
+      "text": "fishing"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Foe",
+      "age": 20,
+      "eyeColor": "blue",
+      "reminder": false,
+      "text": "cooking"
+    },
+    {
+      "id": 3,
+      "firstName": "Jason",
+      "lastName": "Loe",
+      "age": 12,
+      "eyeColor": "black",
+      "reminder": true,
+      "text": "chilling"
+    },
+    {
+      "text": "v fds",
+      "day": "vcdxs",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
